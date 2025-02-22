@@ -1,1 +1,1 @@
-# Pass-Pool
+Pass & Pool is a comprehensive web application designed to simplify travel arrangements within hostel communities. The platform facilitates carpooling among hostel residents, streamlining the process of organizing shared rides and reducing transportation hassles. With Pass & Pool, users can effortlessly book rides, connect with fellow travelers, and contribute to a more sustainable and community-oriented travel experience.
